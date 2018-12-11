@@ -1,0 +1,32 @@
+*{margin:0 auto;font-size:30px;font-family:arial;}
+.temlate{width:1900px;margin:0auto}.clear{overflow:hidden;}.header-section{}
+.login-Links{float: right;margin-right: 260px;border: 1px solid #BFA2A2;border-radius: 2px;margin:10px;}
+.Head-title {text-align: center;padding: 15px;background:#FFA;}
+.Head-title h2 {font-size: 35px;text-shadow: 1px -4px 2px;}nav{background:#000000;}
+.nav-section{}.nav-section ul{list-style:none;}.nav-section ul li{float:left;}
+.nav-section ul li a {display: block;padding: 18px;color: white;text-decoration: none;border-radius: 3px;margin-left: 40px;font-size: 19px;}
+.nav-section ul a:hover{background:#6D4B4B;}.Images-Slid img {width: 1840px;height: 820px;padding: 20px;}
+.main-section {float:left;width: 275px;margin: 10px;border: 2px solid #ddd;background: #FEF;padding: 15px;border-radius: 2px;margin-top: 60px;margin-left: 60px;}
+.Main-Content {border-bottom: 1px solid #A8CCBC;margin-left: -24px;}.main-section{border-bottom:1px solid red;}
+.main-section a{text-decoration:none;}.main-section h2 {font-size: 30px;background: #1F655C;color: white;padding: 8px;text-align:center;}
+.main-section p {font-size: 20px;text-align: justify;}.main-Profile {float: left;width: 1200px;margin-left: 40px;background: #FFA;margin-top:55px;}
+.profile{padding:20px;}.profile a img {float: left;width: 90px;border: 1px solid #1ECEBB;padding: 1px;height: 280px;}
+.profile p {font-size: 20px;text-align: justify;line-height:39px;}.read-more {float: right;background: #BEECBE;padding: 3px;margin-right: 23px;border-radius: 3px;}
+.read-more a h2{font-size:25px;}.read-more a {text-decoration: none;}.read-more a:hover{color:orange;}
+.Side-Bar {background: #FFFFAA;float: right;width: 600px;margin-top: 55px;}.Side-Bar a h2 {text-align: center;background: #404E3F;color: #fff;border-radius: 5px;}
+.Side-Bar a {text-decoration:none;}.Side-Bar p {font-size: 20px;line-height: 35px;text-align:justify;padding:10px;}
+.Footer{background:#000;border-bottom:1px solid orange;}.links {float: left;margin: 10px;width: 925px;}
+.links ul{list-style:none;}.links ul li{margin-top:20px;}.links ul li a {font-size: 25px;color: white;text-decoration: none;margin-left: 150px;}
+.links ul a:hover{color:orange;}.copy-right {background: #2B2424;text-align: center;color: white;font-size: 18px;height: 18px;}table {margin: 40px;}
+.About-us {width: 1700px;margin:70px;}tr {height: 85px;}td {font-size: 20px;padding: 15px;}
+.Database-Feiends{margin:30px;}.About-us{}.About-us h2 {text-align: center;background: #37DE83;height: 40px;margin-top: 39px;color: #D84700;}
+.About-us img {float: left;width: 1830px;border: 2px solid #0AF16E;padding: 2px;margin: 30px;height: 540px;}
+.About-us p {float: right;font-size: 20px;line-height: 50px;padding: 20px;}.images-Text {background: #FEA;}
+.help h2 {line-height: 60px;margin: 20px;}
+
+
+
+
+
+
+
